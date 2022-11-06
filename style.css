@@ -1,0 +1,16 @@
+body{
+    background-color: #a7bde3;
+    color: white;
+    font-size: 21px;
+}
+h1{
+    font-size: 70px;
+    color: #3747b3;
+}
+p{
+    color: #2f4c5c;
+}
+.box{
+    width:300px
+    margin:50px
+}
